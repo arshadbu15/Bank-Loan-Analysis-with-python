@@ -17,4 +17,4 @@ Loss making loans
 
 And many more metrics and created charts and plot this data.
 
-![image alt](https://github.com/arshadbu15/Bank-Loan-Analysis-with-python/blob/main/h4.png)
+![image alt](h6.png)
